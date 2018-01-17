@@ -1,2 +1,2 @@
 # mips
-projects for 2017 PPCA
+project for 2017 PPCA
